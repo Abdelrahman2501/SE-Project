@@ -1,0 +1,3 @@
+[submodule "submodules/SE_starter_code"]
+    path = submodules/SE_starter_code
+    url = https://github.com/DoniaAli77/SE_starter_code.git
